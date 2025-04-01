@@ -40,7 +40,7 @@ Example command to remove background from a video:
 python main.py --input input.mp4 --output output.mp4 --background image.jpg
 ```
 
-I've attached a video as well to see how it works!🙌
+I've attached a video as well to show how it works!🙌
 
 ## 🚀 Roadmap & Future Enhancements
 - 🎭 **More Background Options** – Dynamic effects, AI-generated backgrounds
