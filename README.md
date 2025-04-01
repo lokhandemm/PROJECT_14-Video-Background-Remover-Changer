@@ -12,7 +12,9 @@ No green screen? No problem! **CleanCutAI** is an AI-powered video background re
 
 ## 💡 Tech Stack
 🚀 **Deep Learning & AI** – Cutting-edge background segmentation.
+
 💻 **Web Development** – A seamless, intuitive experience.
+
 🎨 **Computer Vision** – Enhancing video quality in real time.
 
 ## 🔗 Try It Out
@@ -37,6 +39,8 @@ Example command to remove background from a video:
 ```bash
 python main.py --input input.mp4 --output output.mp4 --background image.jpg
 ```
+
+I've attached a video as well to see how it works!🙌
 
 ## 🚀 Roadmap & Future Enhancements
 - 🎭 **More Background Options** – Dynamic effects, AI-generated backgrounds
