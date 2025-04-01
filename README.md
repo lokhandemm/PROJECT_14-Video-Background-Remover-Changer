@@ -50,8 +50,5 @@ We welcome contributions! Feel free to fork the repo, create issues, or submit p
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
-For any queries or collaborations, reach out via [your.email@example.com](mailto:your.email@example.com) or open an issue on GitHub.
-
 ---
 ✨ **Join the Future of Video Editing with CleanCutAI!** ✨
