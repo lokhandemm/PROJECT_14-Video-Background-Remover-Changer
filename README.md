@@ -9,7 +9,7 @@ No green screen? No problem! **CleanCutAI** is an AI-powered video background re
 ✅ **Next-Level Creativity** – Replace backgrounds with a pro studio, sleek office, or any custom scene.
 ✅ **No Software Required** – Just drag, drop, and let AI do the magic.
 ✅ **User-Friendly Interface** – Simple UI for easy operation.
-
+ 
 ## 💡 Tech Stack
 🚀 **Deep Learning & AI** – Cutting-edge background segmentation.
 
