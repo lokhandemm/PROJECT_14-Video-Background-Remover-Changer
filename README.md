@@ -1,6 +1,6 @@
 # 🚀 CleanCutAI - Transform Your Videos Instantly! 🎥✨   
                         
-## 📌 Overview  
+## 📌 Overview   
 No green screen? No problem! **CleanCutAI** is an AI-powered video background remover and changer that allows you to replace video backgrounds effortlessly. Whether you're a content creator, professional, or just experimenting, CleanCutAI makes video editing seamless and efficient. 
 
 ## 🎯 Features
